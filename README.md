@@ -2,7 +2,7 @@
 ### Definicion del problema: Cual es el comportamiento de los usuarios teniendo en cuenta su primer adelanto en efectivo?
 ### Objetivos: Analizar
 
-Importamos la libreria pandas como pd
+#Importamos la libreria pandas como pd
 
 >import pandas as pd
 
