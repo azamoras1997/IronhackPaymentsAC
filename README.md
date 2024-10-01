@@ -1,3 +1,3 @@
-### Proyecto Ironhack Payments:
+# Proyecto Ironhack Payments:
 ## Definicion del problema:
 
